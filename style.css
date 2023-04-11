@@ -1,0 +1,36 @@
+.img__logo{
+    width: 100%;
+}
+.nav__principal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    margin-bottom: 1rem;
+}
+.nav__principal li{
+    padding-top: 2rem;
+    
+}
+.nav__principal a{
+    color: white ;
+    font-weight: bolder;
+}
+/* main */
+.img__principal{
+    height: 100vh;
+    width: 100vw;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.titulo{
+    font-size: 3rem;
+    
+}
+.parrafo{
+    font-size: 1.5rem ;
+    font-weight: bolder;
+}
